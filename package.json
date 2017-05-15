@@ -1,7 +1,7 @@
 {
   "name": "ras",
   "description": "A regex & glob based batch renaming utility",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "bin": {
   	"ras": "index.js"
